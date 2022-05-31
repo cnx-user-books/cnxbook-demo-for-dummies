@@ -1,0 +1,29 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10275</md:content-id>
+    <md:title>Demo for Dummies</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>ed14c8c5-f01d-481a-aa4b-c133ea5a1179</md:uuid>
+<md:slug>demo-for-dummies</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m12678"/>
+    <col:module document="m12677"/>
+    <col:module document="m12679"/>
+    <col:subcollection>
+      <md:title>Sections can be added.</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>And subsections</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>And sub-subsections.</md:title>
+              <col:content/>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

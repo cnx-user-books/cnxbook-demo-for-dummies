@@ -1,0 +1,12 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>This is another "module".</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>3a074a1d-16b8-48d2-b178-a48bec29c497</md:uuid>
+</metadata>
+
+  <content>
+    <para id="delete_me">
+       Modules should be about two pages long, and stand on their own.
+    </para>   
+  </content>
+  
+</document>

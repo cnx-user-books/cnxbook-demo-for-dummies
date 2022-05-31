@@ -1,0 +1,12 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>This is a "module".</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d39e6697-64bf-4a56-9a71-1036e52fd374</md:uuid>
+</metadata>
+
+  <content>
+    <para id="delete_me">
+       Modules are where the content is put.
+    </para>   
+  </content>
+  
+</document>
